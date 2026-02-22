@@ -8,7 +8,7 @@ Programa para atualizar quantidade da requisição. Irá listar as requisições
 
 **Processos** 
 
-    * Criar uma função – Nome: ZFM<iniciais>_SBUPD_REQ 
+* Criar uma função – Nome: ZFM<iniciais>_SBUPD_REQ 
           * Receber Parâmetro único 
               * EBAN-BANFN (requisição) 
               * EBAN-BNFPO (item requisição)
